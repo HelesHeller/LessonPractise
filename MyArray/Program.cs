@@ -86,5 +86,7 @@ class Program
         car.DisableAutopilot();
         car.Brake();
         car.Stop();
+
+        Console.WriteLine("New branch");
     }
 }
